@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body{
+	margin:0; padding:0;
+	background-color: black;
+}
+header{
+	width: 100%;
+	position: fixed;
+	height: 100px;
+	position: fixed;
+	background-color: #bf4640;
+	margin: 0 auto;
+	z-index: 1000;
+}
+.logo{
+	height: 80px;
+	margin-left: 60px;
+}
+li{
+	display: inline;
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	margin: 0 auto;
+	margin-left: 40px;
+	position: relative;
+	bottom: 30px;
+}
+a{
+	text-decoration: none;
+	color: orange;
+}
+.banner{
+	/*margin-top: 50px;*/
+	margin: 0 auto;
+	margin-left: 40px;
+}
+.banner:hover{
+	cursor: pointer;
+}
+h3{
+	color:orange;
+	font-family: 'Anton', sans-serif;
+	font-size: 25px;
+	margin-left: 45%;
+	text-decoration: underline;
+}
+h4{
+	color:orange;
+	font-family: 'Anton', sans-serif;
+	font-size: 25px;
+	margin-left: 43%;
+}
+.camiseta{
+	margin-left: 35%;
+}
+p{
+	color:orange;
+	font-family: 'Anton', sans-serif;
+	font-size: 25px;
+	white-space: pre-wrap;
+}
+.time, .time1, .time2, .time3{
+	float: left;
+	margin-left: 55px;
+	margin-top: 35px;
+}
+.total{
+	width: 900px;
+	height: 400px;
+	margin: 0 auto;
+}
+.imagem{
+	width: 500px;
+	height: 2px;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+.imagem:hover{
+	cursor: pointer;
+}
+.imagem1{
+	width: 500px;
+	height: 600px;
+	margin-left: 60%;
+}
+.imagem:hover{
+	cursor: pointer;
+}
+.soul{
+	margin-top: 15px;
+}
+.soul:hover{
+	cursor: pointer;
+}
+.one{
+	margin-top: 15px;
+}
+.one:hover{
+	cursor: pointer;
+}
+.produtos{
+	margin-left: 1400px;
+	position: relative;
+	bottom: 1800px;
+}
+.produtos1{
+	position: relative;
+	margin-left: 150px;
+	bottom: 100px;
+}
+.produtos2{
+	width: 155px;
+	height: 150px;
+	position: relative;
+	margin-left: 85%;
+	bottom: 2140px;
+}
+.produto3{
+	width: 400px;
+	height: 240px;
+	position: relative;
+	margin-left: 30%;
+	bottom: 380px;
+}
+.produtos4{
+	margin-left: 150px;
+}
+.produtos5{
+	position: relative;
+	margin-left: 150px;
+	bottom: 180px;
+}
+.produto6{
+	width: 400px;
+	height: 240px;
+	position: relative;
+	margin-left: 30%;
+	bottom: 480px;
+}
+.produto7{
+	width: 400px;
+	height: 240px;
+	position: relative;
+	margin-left: 30%;
+	bottom: 560px;
+}
+.produtos8{
+	width: 155px;
+	height: 150px;
+	position: relative;
+	margin-left: 85%;
+	bottom: 2200px;
+}
+.produtos9{
+	width: 155px;
+	height: 150px;
+	position: relative;
+	margin-left: 85%;
+	bottom: 2240px;
+}
+em{
+	color:orange;
+	font-family: 'Anton', sans-serif;
+	font-size: 25px;
+	margin-left: 800px;
+	position: relative;
+	top: 90px;
+}
+legend, label{
+	color: black;
+}
+legend{
+	font-size: 40px;
+	margin-left: 50%;
+}
+.contato{
+	background-color: darkred;
+	width: 650px;
+	height: 650px;
+	margin-left: 45%;
+	position: relative;
+	bottom: 1750px;
+}
+input{
+	width: 250px;
+	height: 30px;
+}
+textarea{
+	resize: none;
+	width: 250px;
+	height: 93px;
+}

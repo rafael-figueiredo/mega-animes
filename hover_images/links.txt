@@ -1,0 +1,7 @@
+http://www.pinceladasdaweb.com.br/blog/2008/11/10/10-tecnicas-para-reset-css/
+
+http://desenvolvimentoparaweb.com/css/flexbox/
+
+flex box e reset
+
+https://miketricking.github.io/bootstrap-image-hover/
